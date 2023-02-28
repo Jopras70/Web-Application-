@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    max-width: 100%;
+    color: white;
+    padding-left: 20px;
+}
+
+li {
+    font-size: large;
+}
